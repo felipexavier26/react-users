@@ -34,9 +34,9 @@ Este projeto é uma aplicação de cadastro de usuários desenvolvida com <stron
 <li><strong>Modal de Exclusão: </strong>Modal de confirmação utilizando Bootstrap para garantir que o usuário deseja realmente excluir.</li>
 
 <h1>Demonstração</h1>
-<p><strong></strong>Página de Listagem de Usuários</p>
-<p><strong></strong>Página de Cadastro</p>
-<p><strong></strong>Modal de Exclusão</p>
+<p><strong>Página de Listagem de Usuários</strong></p>
+<p><strong>Página de Cadastro</strong></p>
+<p><strong>Modal de Exclusão</strong></p>
 
 
 <br>
