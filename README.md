@@ -43,6 +43,9 @@ Este projeto é uma aplicação de cadastro de usuários desenvolvida com <stron
 <br>
 
 
+![image](https://github.com/user-attachments/assets/e5712008-1831-4a82-97c4-d4c6a018cbc3)
+
+
 
 
 
